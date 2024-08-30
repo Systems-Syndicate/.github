@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-Welcome to the GitHub organisation of the System Syndicates!!!
+Welcome to the GitHub organisation of the **System Syndicates**!!!
 We are working on The Ambient Interfaces project, developed as part of the UQ DECO3801 course.
 
 The Ambient Interfaces project aims to develop a simple and unobtrusive calendar and time management system
@@ -8,6 +8,9 @@ to integrate into family homes. The device and software should allow families to
 whilst utilising ambient UX design principles for the purpose of promoting social engagement.
 
 > As this is part of a uni course, you probably won't see anything public atm, maybe come back later! 🫠
+
+We have currently come up with a design that integrates the typical digital calendar into a regular chess board, creating a 
+unique and interactive device that remains ambient and unobtrusive.
 
 ## Project Features
 - **Dual Functionality**: The chess board serves as a standard game board but seamlessly converts into a digital calendar when activated by an NFC tag.
